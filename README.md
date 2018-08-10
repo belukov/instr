@@ -10,15 +10,15 @@
 
 Для того чтобы воспользоваться токенами, нужно показать сервису токен:
 
-![Add token](https://github.com/belukov/instr/blob/master/images/mew_add_token.png)
+Справа, в блоке "Token Balances" нажмите "Show all tokens". 
 
-Справа, в блоке "Token Balances" нажмите "Add custom token". Заполните поля фррмы
+![Show token](https://github.com/belukov/instr/blob/master/images/mew_show_tokens.png)
 
-* Token Contract Address - 0x27695E09149AdC738A978e9A678F99E4c39e9eb9
-* Token Symbol - KICK
-* Decimals - 8
+В появившемся списке найдите "KICK":
 
-И нажмите "Save". Вы должны увидеть баланс токенов: 
+![Find kick](https://github.com/belukov/instr/blob/master/images/mew_find_kick.png)
+
+Нажмите "Click to load". Вы должны увидеть баланс токенов: 
 
 ![Token balance](https://github.com/belukov/instr/blob/master/images/mew_token_balance.png)
 
